@@ -1,14 +1,14 @@
-<h1 align="center"><b>❤️ SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>𝚁𝚘𝚖𝚎𝚘𝚇𝚖𝚞𝚜𝚒𝚌</b></h1>
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center"> RomeoXmusic A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/itsRomeo143/RomeoXmusicBot"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsRomeo143/RomeoXmusicBot/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsRomeo143/RomeoXmusicBotsues> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsRomeo143/RomeoXmusicBotnetwork/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
