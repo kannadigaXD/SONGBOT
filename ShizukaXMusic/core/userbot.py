@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Hindichat_house")
-                await self.two.join_chat("EX_Network")
+                await self.two.join_chat("Doston_Ki_Masti")
+                await self.two.join_chat("RoyalQuizStudyUPSC")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Hindichat_house")
-                await self.three.join_chat("EX_Network")
+                await self.three.join_chat("Doston_Ki_Masti")
+                await self.three.join_chat("RoyalQuizStudyUPSC")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Hindichat_house")
-                await self.four.join_chat("EX_Network")
+                await self.four.join_chat("Doston_Ki_Masti")
+                await self.four.join_chat("RoyalQuizStudyUPSC")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Hindichat_house")
-                await self.five.join_chat("EX_Network")
+                await self.five.join_chat("Doston_Ki_Masti")
+                await self.five.join_chat("RoyalQuizStudyUPSC")
             except:
                 pass
             assistants.append(5)
