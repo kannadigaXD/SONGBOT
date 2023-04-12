@@ -2,7 +2,7 @@
 
 <h4 align="center"> RomeoXmusic A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://www.linkpicture.com/q/20230324_114901_1.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://telegra.ph/file/8c78951f44aa036252af9.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/itsRomeo143/RomeoXmusicBot"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
