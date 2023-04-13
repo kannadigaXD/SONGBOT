@@ -6,19 +6,19 @@ import random
 
 
 selections = [
-    "▁▄▂▇▄▅▄▅▃",
-    "▁▃▇▂▅▇▄▅▃",
-    "▃▁▇▂▅▃▄▃▅",
-    "▃▄▂▄▇▅▃▅▁",
-    "▁▃▄▂▇▃▄▅▃",
-    "▃▁▄▂▅▃▇▃▅",
-    "▁▇▄▂▅▄▅▃▄",
-    "▁▃▅▇▂▅▄▃▇",
-    "▃▅▂▅▇▁▄▃▁",
-    "▇▅▂▅▃▄▃▁▃",
-    "▃▇▂▅▁▅▄▃▁",
-    "▅▄▇▂▅▂▄▇▁",
-    "▃▅▂▅▃▇▄▅▃",
+    "『 ツ 𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉 ➢ 』",
+    "𝙆",
+    "𝙆 𝙄",
+    "𝙆 𝙄 𝙈",
+    "𝙆 𝙄 𝙈 𝙅",
+    "𝙆 𝙄 𝙈 𝙅 𝙄",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉 - 𝘽",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉 - 𝘽 𝙊",
+    "𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉 - 𝘽 𝙊 𝙏",
 ]
 
 
@@ -40,7 +40,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🌹 Dᴇᴠʟᴏᴘᴇʀ 🌹", url=f"https://t.me/hyper_x_rachit"
+                text="👀 𝘿 𝘼 𝘿 𝘿 𝙔 👅", url=f"https://t.me/kimjikoinsupport"
             ),
         ],
         [
@@ -68,7 +68,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 Dᴇᴠʟᴏᴘᴇʀ 🌹", url=f"https://t.me/hyper_x_rachit"),
+            InlineKeyboardButton(text="👀 𝘿 𝘼 𝘿 𝘿 𝙔 👅", url=f"https://t.me/kimjikoinsupport"),
         ],
         [
             InlineKeyboardButton(
@@ -91,7 +91,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 Dᴇᴠʟᴏᴘᴇʀ 🌹", url=f"https://t.me/hyper_x_rachit"),
+            InlineKeyboardButton(text="👀 𝘿 𝘼 𝘿 𝘿 𝙔 👅", url=f"https://t.me/kimjikoinsupport"),
         ],
         [
             InlineKeyboardButton(
