@@ -1,7 +1,7 @@
 {
-    "name": "RomeoXmusicBot",
-    "description": "Romeo Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://www.linkpicture.com/q/IMG_20230312_002256_367_1.jpg",
+    "name": "KIMJIKOIN",
+    "description": "KIMJIKOIN Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://telegra.ph/file/8c78951f44aa036252af9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/kannadigaXD/SONGBOTt",
+        "value": "https://github.com/kannadigaXD/SONGBOT",
         "required": true
       },
       "UPSTREAM_BRANCH": {
